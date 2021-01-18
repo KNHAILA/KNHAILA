@@ -31,7 +31,7 @@
 <br />
 
 ## :zap: Most Used Languages
-<img width="42%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 ### Some Languages and Tools:
