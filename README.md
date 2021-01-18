@@ -21,18 +21,23 @@
 <br />
 
 ## :zap: 42 Profile Card
-<img align="center" width="50%" src="https://1337-readme.vercel.app/api/profile?cursus=42&login=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<div align="center">
+<img width="50%" src="https://1337-readme.vercel.app/api/profile?cursus=42&login=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</div>
 
 <br/>
 
 ## :zap: Github Stats 
-<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=knhaila&show_icons=true&theme=radical" />
+<div align="center">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=knhaila&show_icons=true&theme=radical" />
+</div>
 
 <br />
 
 ## :zap: Most Used Languages
+<div align="center">
 <img align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
+</div>
 
 ## :zap: Some Languages and Tools:
 
@@ -61,8 +66,11 @@
 [<img src="./assets/images/eclipse.png" alt="eclipse Icon" width="40px"/>]()
 
 <br/>  
+<div align="center">
 
 ![VisitorCount](https://profile-counter.glitch.me/{knhaila}/count.svg)
+
+</div>
 
 ![Footer Illustration](./assets/images/footer.png)
 
