@@ -34,7 +34,7 @@
 <img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
-### Some Languages and Tools:
+## :zap: Some Languages and Tools:
 
 [<img src="./assets/images/javascript.svg" alt="Javascript Icon" width="40px"/>]()
 [<img src="./assets/images/typescript.svg" alt="typescript Icon" width="40px"/>]()
