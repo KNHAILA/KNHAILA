@@ -20,7 +20,8 @@
 
 <br />
 
-![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&login=knhaila)
+## :zap: 42 Profile Card
+<img width="50%" src="https://1337-readme.vercel.app/api/profile?cursus=42&login=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <br/>
 
