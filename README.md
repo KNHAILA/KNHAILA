@@ -8,9 +8,9 @@
 
 - 🦠 I’m currently avoiding death because of __Coronavirus__! 😷
 - 🌱 I’m currently learning __DevOps__ 😏
-- 📈 2021 Goals: Being the best on what i am doing (__Programing__ , __Public speaking__) 💟
+- 📈 2021 Goals: Being the best on what i am doing (__Programing__ , __Public Speaking__) 💟
 - ⚡ Fun fact: __1 b3l13v3 1n 74k1n6 r15k5__ 🤭
-- 👯 I’m always looking to collaborate __collaborate with others__ 
+- 👯 I’m always looking to __collaborate with others__ 
 
 <br />
 
