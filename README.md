@@ -4,7 +4,7 @@
 ### Hi there, I'm NHAILA Kaoutar 👋
 
 
-## I'm a Student Engineer at ENSA, Student at 1337, Developer, and Simple Young Girl!!
+## I'm a Software Engineer Student at ENSA, Student at 1337, Developer, and Simple Young Girl!!
 
 - 🦠 I’m currently avoiding death because of __Coronavirus__! 😷
 - 🌱 I’m currently learning __DevOps__ 😏
@@ -21,17 +21,17 @@
 <br />
 
 ## :zap: 42 Profile Card
-<img width="50%" src="https://1337-readme.vercel.app/api/profile?cursus=42&login=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="center" width="50%" src="https://1337-readme.vercel.app/api/profile?cursus=42&login=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 <br/>
 
 ## :zap: Github Stats 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=knhaila&show_icons=true&theme=radical" />
+<img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=knhaila&show_icons=true&theme=radical" />
 
 <br />
 
 ## :zap: Most Used Languages
-<img width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+<img align="center" width="50%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=knhaila&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 
 
 ## :zap: Some Languages and Tools:
@@ -62,6 +62,7 @@
 
 <br/>  
 
+![VisitorCount](https://profile-counter.glitch.me/{knhaila}/count.svg)
 
 ![Footer Illustration](./assets/images/footer.png)
 
